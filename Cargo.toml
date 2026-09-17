@@ -1,0 +1,15 @@
+[package]
+name = "rust-hash-table"
+version = "0.1.0"
+authors = ["Patman1O1"]
+edition = "2024"
+description = ""
+readme = "README.md"
+repository = "https://github.com/Patman1O1/rust-hash-table"
+license = "MIT"
+license-file = "LICENSE"
+build = "build.rs"
+
+
+[dependencies]
+allocator-api2 = "0.4"
